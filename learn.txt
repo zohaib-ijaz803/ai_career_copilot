@@ -1,0 +1,15 @@
+venv
+
+all projects same pakages
+
+A > flask 2
+B flask
+
+with venv
+
+pip install flask sqlalchemy pymsql openai PyPDF2 python-docx
+
+1- step's - stepup
+2- databse connection
+
+CREATE TABLE raw sql
